@@ -1,6 +1,5 @@
-dist
 built
-node_modules
+/node_modules
 logs
 *.log
 *.tgz
